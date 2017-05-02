@@ -1,5 +1,5 @@
- <?php
- namespace QCLOUDAPI;
+<?php
+namespace QCLOUDAPI;
 // 目录入口
 define('QCLOUDAPI_ROOT_PATH', dirname(__FILE__));
 /**
